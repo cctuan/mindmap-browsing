@@ -13,4 +13,4 @@ if (fs.existsSync(src)) {
     fs.unlinkSync(src)
 }
 
-console.warn('请检查手绘风格选项是否开启！！！')
+console.warn('請檢查手繪畫功能是否開啟')
